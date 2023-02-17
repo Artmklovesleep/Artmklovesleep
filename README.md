@@ -7,5 +7,5 @@
 <f>
 <font size="100"><b>It's me Artemka.</b></font>
 </f>
-<h1 align="center">It's me Artemka.</a> 
+<h1>It's me Artemka.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
