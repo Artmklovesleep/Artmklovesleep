@@ -4,5 +4,5 @@
 
 ---
 
-<h1>🅸🆃'🆂 🅼🅴 🅰🆁🆃🅴🅼🅺🅰</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%F0%9D%95%80++%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%A8%F0%9D%95%92%F0%9D%95%AA%F0%9D%95%A4+%F0%9D%95%A8%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%9F%F0%9D%95%92+%F0%9D%95%A4%F0%9D%95%9D%F0%9D%95%96%F0%9D%95%96%F0%9D%95%A1" alt="Typing SVG" /></a>
+<h1 align="center">🅸🆃'🆂 🅼🅴 🅰🆁🆃🅴🅼🅺🅰</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%F0%9D%95%80++%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%A8%F0%9D%95%92%F0%9D%95%AA%F0%9D%95%A4+%F0%9D%95%A8%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%9F%F0%9D%95%92+%F0%9D%95%A4%F0%9D%95%9D%F0%9D%95%96%F0%9D%95%96%F0%9D%95%A1" align="center" alt="Typing SVG" /></a>
