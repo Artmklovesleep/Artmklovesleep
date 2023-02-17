@@ -4,6 +4,5 @@
 
 ---
 
-<tex>
-<font size="200%" color="#ffc0cb" face="Times New Roman"><big>It's me Artemka.</big></font>
-</tex>
+
+<big>It's me Artemka.</big>
