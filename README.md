@@ -1,7 +1,7 @@
-<h1 align="center">🅸🆃'🆂 🅼🅴 🅰🆁🆃🅴🅼🅺🅰</h1>
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/ihkiOFNsjcVVTgQHLe/giphy.gif?cid=ecf05e47yrm0r02nk193ekbiaww2cqabl515isyqb9rng6bk&rid=giphy.gif&ct=g">
 </div>
+<h1 align="center">ɐʞɯǝʇɹ∀ - ǝɯ s,ʇI</h1>
 
 ---
 
