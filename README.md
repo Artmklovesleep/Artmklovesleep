@@ -5,6 +5,5 @@
 ---
 
 <tex>
-<font size="200%" color="#ffc0cb" face="Times New Roman"><big>Форматируется только тот текст, который расположен между частями парного тега font.</big></font>
-Остальной текст отображается стандартным шрифтом, установленным по умолчанию.
+<font size="200%" color="#ffc0cb" face="Times New Roman"><big>It's me Artemka.</big></font>
 </tex>
